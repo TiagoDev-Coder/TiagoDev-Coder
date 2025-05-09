@@ -34,8 +34,12 @@ Nas Horas vagas Gosto De Jogar E Criar Projetos Pessoais. 🎮⚡
 </div>
 </section>
 
-<styles>
-  .Badges {
-  display: flex;
-  }
-</styles>
+<section>
+  <div class="Redes-Sociais">
+  <p>Facebook</p>
+  <p>Instagram</p>
+  <p>Youtube</p>
+  <p>Tiktok</p>
+  <p>Kwai</p>
+  </div>
+</section>
