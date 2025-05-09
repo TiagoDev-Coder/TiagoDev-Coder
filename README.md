@@ -36,7 +36,7 @@ Nas Horas vagas Gosto De Jogar E Criar Projetos Pessoais. 🎮⚡
 
 <section>
     <div class="Redes-Sociais">
-      <p>Facebook <a><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://www.facebook.com/tiago.inglesfacil.1"></a></p>
+      <p>Facebook <a href="https://www.facebook.com/tiago.inglesfacil.1"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></p>
       <p>Instagram <a><img src=""> </a></p>
       <p>Youtube <a><img src=""> </a></p>
       <p>Tiktok <a><img src=""> </a></p>
