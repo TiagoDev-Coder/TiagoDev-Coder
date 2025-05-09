@@ -18,28 +18,28 @@ Nas Horas vagas Gosto De Jogar E Criar Projetos Pessoais. 🎮⚡
 <br>
 
 <section class="Badges">
-<div>
-<h4><b>HTML</b></h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
-</div>
+    <div>
+        <h4><b>HTML</b></h4>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
+    </div>
 
-<div>
-<h4><b>CSS</b></h4>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
-</div>
+  <div>
+        <h4><b>CSS</b></h4>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+    </div>
 
-<div>
-<h4><b>JAVASCRIPT</b></h4>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
-</div>
+  <div>
+        <h4><b>JAVASCRIPT</b></h4>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
+    </div>
 </section>
 
 <section>
-  <div class="Redes-Sociais">
-  <p>Facebook</p>
-  <p>Instagram</p>
-  <p>Youtube</p>
-  <p>Tiktok</p>
-  <p>Kwai</p>
-  </div>
+    <div class="Redes-Sociais">
+      <p>Facebook <a><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" href="https://www.facebook.com/tiago.inglesfacil.1"></a></p>
+      <p>Instagram <a><img src=""> </a></p>
+      <p>Youtube <a><img src=""> </a></p>
+      <p>Tiktok <a><img src=""> </a></p>
+      <p>Kwai <a><img src=""> </a></p>
+    </div>
 </section>
