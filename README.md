@@ -39,7 +39,7 @@ Nas Horas vagas Gosto De Jogar E Criar Projetos Pessoais. 🎮⚡
 
 <section>
     <div class="Redes-Sociais">
-          <p>Facebook <a href="https://www.facebook.com/tiago.inglesfacil" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a></p>
+          <p>Facebook <a href="[https://www.facebook.com/tiago.inglesfacil](https://www.facebook.com/tiago.inglesfacil/about/)" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a></p>
           <p>Instagram <a href="https://www.instagram.com/dicas_testes_hacks_tecnologia/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a></p>
           <p>Youtube <a href="https://www.youtube.com/@Dicas-Tecnologia-Tiago-Lima" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a></p>
           <p>Tiktok <a href="https://www.tiktok.com/@dicas.hacks.tecncno" target="_blank"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"> </a></p>
